@@ -1,0 +1,41 @@
+1-WORD PALINDROMES:
+  did
+
+2-WORD AND 3-WORD PALINDROMES:
+  diddid
+  diddiddid
+  dogod
+  forof
+  fororof
+  noron
+  nororon
+  notemeton
+  notiton
+  noton
+  nowon
+  sayas
+  saybyas
+  tonot
+  wenew
+
+PALINDROMES OF LENGTH 1    - length of candidate list: 0
+
+PALINDROMES OF LENGTH 2    - length of candidate list: 14
+
+PALINDROMES OF LENGTH 3    - length of candidate list: 23
+  did
+
+PALINDROMES OF LENGTH 4    - length of candidate list: 219
+
+PALINDROMES OF LENGTH 5    - length of candidate list: 644
+  dogod
+  forof
+  noron
+  noton
+  nowon
+  sayas
+  tonot
+  wenew
+
+PALINDROMES OF LENGTH 6    - length of candidate list: 3888
+

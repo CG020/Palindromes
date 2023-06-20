@@ -1,0 +1,332 @@
+1-WORD PALINDROMES:
+
+2-WORD AND 3-WORD PALINDROMES:
+  evillive
+  liveevil
+  noon
+  onno
+  ratsstar
+  starrats
+
+PALINDROMES OF LENGTH 1    - length of candidate list: 0
+
+PALINDROMES OF LENGTH 2    - length of candidate list: 2
+
+PALINDROMES OF LENGTH 3    - length of candidate list: 0
+
+PALINDROMES OF LENGTH 4    - length of candidate list: 8
+  noon
+  onno
+
+PALINDROMES OF LENGTH 5    - length of candidate list: 0
+
+PALINDROMES OF LENGTH 6    - length of candidate list: 20
+
+PALINDROMES OF LENGTH 7    - length of candidate list: 0
+
+PALINDROMES OF LENGTH 8    - length of candidate list: 64
+  evillive
+  liveevil
+  nonoonon
+  ononnono
+  ratsstar
+  starrats
+
+PALINDROMES OF LENGTH 9    - length of candidate list: 0
+
+PALINDROMES OF LENGTH 10    - length of candidate list: 196
+
+PALINDROMES OF LENGTH 11    - length of candidate list: 0
+
+PALINDROMES OF LENGTH 12    - length of candidate list: 624
+  evilnoonlive
+  evilonnolive
+  livenoonevil
+  liveonnoevil
+  noevilliveon
+  noliveevilon
+  nononoononon
+  nonoonnoonon
+  noratsstaron
+  nostarratson
+  onevilliveno
+  onliveevilno
+  ononnoonnono
+  onononnonono
+  onratsstarno
+  onstarratsno
+  ratsnoonstar
+  ratsonnostar
+  starnoonrats
+  staronnorats
+
+PALINDROMES OF LENGTH 13    - length of candidate list: 0
+
+PALINDROMES OF LENGTH 14    - length of candidate list: 1992
+
+PALINDROMES OF LENGTH 15    - length of candidate list: 0
+
+PALINDROMES OF LENGTH 16    - length of candidate list: 6400
+  evilevillivelive
+  evilnonoononlive
+  evilnoonnoonlive
+  evilonnoonnolive
+  evilononnonolive
+  evilratsstarlive
+  evilstarratslive
+  liveliveevilevil
+  livenonoononevil
+  livenoonnoonevil
+  liveonnoonnoevil
+  liveononnonoevil
+  liveratsstarevil
+  livestarratsevil
+  noevilnoonliveon
+  noevilonnoliveon
+  nolivenoonevilon
+  noliveonnoevilon
+  nonoevilliveonon
+  nonoliveevilonon
+  nonononoonononon
+  nononoonnoononon
+  nonoonnoonnoonon
+  nonoratsstaronon
+  nonostarratsonon
+  noratsnoonstaron
+  noratsonnostaron
+  nostarnoonratson
+  nostaronnoratson
+  onevilnoonliveno
+  onevilonnoliveno
+  onlivenoonevilno
+  onliveonnoevilno
+  ononevillivenono
+  ononliveevilnono
+  ononnoonnoonnono
+  onononnoonnonono
+  ononononnononono
+  ononratsstarnono
+  ononstarratsnono
+  onratsnoonstarno
+  onratsonnostarno
+  onstarnoonratsno
+  onstaronnoratsno
+  ratsevillivestar
+  ratsliveevilstar
+  ratsnonoononstar
+  ratsnoonnoonstar
+  ratsonnoonnostar
+  ratsononnonostar
+  ratsratsstarstar
+  starevilliverats
+  starliveevilrats
+  starnonoononrats
+  starnoonnoonrats
+  staronnoonnorats
+  starononnonorats
+  starstarratsrats
+
+PALINDROMES OF LENGTH 17    - length of candidate list: 0
+
+PALINDROMES OF LENGTH 18    - length of candidate list: 20652
+
+PALINDROMES OF LENGTH 19    - length of candidate list: 0
+
+PALINDROMES OF LENGTH 20    - length of candidate list: 66672
+  evilevilnoonlivelive
+  evilevilonnolivelive
+  evilnoevilliveonlive
+  evilnoliveevilonlive
+  evilnononoonononlive
+  evilnonoonnoononlive
+  evilnoonnoonnoonlive
+  evilnoononnonoonlive
+  evilnoratsstaronlive
+  evilnostarratsonlive
+  evilonevillivenolive
+  evilonliveevilnolive
+  evilonnonoononnolive
+  evilonnoonnoonnolive
+  evilononnoonnonolive
+  evilonononnononolive
+  evilonratsstarnolive
+  evilonstarratsnolive
+  evilratsnoonstarlive
+  evilratsonnostarlive
+  evilstarnoonratslive
+  evilstaronnoratslive
+  livelivenoonevilevil
+  liveliveonnoevilevil
+  livenoevilliveonevil
+  livenoliveevilonevil
+  livenononoonononevil
+  livenonoonnoononevil
+  livenoonnoonnoonevil
+  livenoononnonoonevil
+  livenoratsstaronevil
+  livenostarratsonevil
+  liveonevillivenoevil
+  liveonliveevilnoevil
+  liveonnonoononnoevil
+  liveonnoonnoonnoevil
+  liveononnoonnonoevil
+  liveonononnononoevil
+  liveonratsstarnoevil
+  liveonstarratsnoevil
+  liveratsnoonstarevil
+  liveratsonnostarevil
+  livestarnoonratsevil
+  livestaronnoratsevil
+  noevilevilliveliveon
+  noevilliveevilliveon
+  noevilnonoononliveon
+  noevilnoonnoonliveon
+  noevilonnoonnoliveon
+  noevilononnonoliveon
+  noevilratsstarliveon
+  noevilstarratsliveon
+  noliveevilliveevilon
+  noliveliveevilevilon
+  nolivenonoononevilon
+  nolivenoonnoonevilon
+  noliveonnoonnoevilon
+  noliveononnonoevilon
+  noliveratsstarevilon
+  nolivestarratsevilon
+  nonoevilnoonliveonon
+  nonoevilonnoliveonon
+  nonolivenoonevilonon
+  nonoliveonnoevilonon
+  nononoevilliveononon
+  nononoliveevilononon
+  nononononoononononon
+  nonononoonnoonononon
+  nononoonnoonnoononon
+  nononoononnonoononon
+  nononoratsstarononon
+  nononostarratsononon
+  nonoonevillivenoonon
+  nonoonliveevilnoonon
+  nonoonnonoononnoonon
+  nonoonnoonnoonnoonon
+  nonoonratsstarnoonon
+  nonoonstarratsnoonon
+  nonoratsnoonstaronon
+  nonoratsonnostaronon
+  nonostarnoonratsonon
+  nonostaronnoratsonon
+  noratsevillivestaron
+  noratsliveevilstaron
+  noratsnonoononstaron
+  noratsnoonnoonstaron
+  noratsonnoonnostaron
+  noratsononnonostaron
+  noratsratsstarstaron
+  noratsstarratsstaron
+  nostarevilliveratson
+  nostarliveevilratson
+  nostarnonoononratson
+  nostarnoonnoonratson
+  nostaronnoonnoratson
+  nostarononnonoratson
+  nostarratsstarratson
+  nostarstarratsratson
+  onevilevilliveliveno
+  onevilliveevilliveno
+  onevilnonoononliveno
+  onevilnoonnoonliveno
+  onevilonnoonnoliveno
+  onevilononnonoliveno
+  onevilratsstarliveno
+  onevilstarratsliveno
+  onliveevilliveevilno
+  onliveliveevilevilno
+  onlivenonoononevilno
+  onlivenoonnoonevilno
+  onliveonnoonnoevilno
+  onliveononnonoevilno
+  onliveratsstarevilno
+  onlivestarratsevilno
+  ononevilnoonlivenono
+  ononevilonnolivenono
+  ononlivenoonevilnono
+  ononliveonnoevilnono
+  ononnoevilliveonnono
+  ononnoliveevilonnono
+  ononnoonnoonnoonnono
+  ononnoononnonoonnono
+  ononnoratsstaronnono
+  ononnostarratsonnono
+  onononevillivenonono
+  onononliveevilnonono
+  onononnonoononnonono
+  onononnoonnoonnonono
+  ononononnoonnononono
+  onononononnonononono
+  onononratsstarnonono
+  onononstarratsnonono
+  ononratsnoonstarnono
+  ononratsonnostarnono
+  ononstarnoonratsnono
+  ononstaronnoratsnono
+  onratsevillivestarno
+  onratsliveevilstarno
+  onratsnonoononstarno
+  onratsnoonnoonstarno
+  onratsonnoonnostarno
+  onratsononnonostarno
+  onratsratsstarstarno
+  onratsstarratsstarno
+  onstarevilliveratsno
+  onstarliveevilratsno
+  onstarnonoononratsno
+  onstarnoonnoonratsno
+  onstaronnoonnoratsno
+  onstarononnonoratsno
+  onstarratsstarratsno
+  onstarstarratsratsno
+  ratsevilnoonlivestar
+  ratsevilonnolivestar
+  ratslivenoonevilstar
+  ratsliveonnoevilstar
+  ratsnoevilliveonstar
+  ratsnoliveevilonstar
+  ratsnononoonononstar
+  ratsnonoonnoononstar
+  ratsnoonnoonnoonstar
+  ratsnoononnonoonstar
+  ratsnoratsstaronstar
+  ratsnostarratsonstar
+  ratsonevillivenostar
+  ratsonliveevilnostar
+  ratsonnonoononnostar
+  ratsonnoonnoonnostar
+  ratsononnoonnonostar
+  ratsonononnononostar
+  ratsonratsstarnostar
+  ratsonstarratsnostar
+  ratsratsnoonstarstar
+  ratsratsonnostarstar
+  starevilnoonliverats
+  starevilonnoliverats
+  starlivenoonevilrats
+  starliveonnoevilrats
+  starnoevilliveonrats
+  starnoliveevilonrats
+  starnononoonononrats
+  starnonoonnoononrats
+  starnoonnoonnoonrats
+  starnoononnonoonrats
+  starnoratsstaronrats
+  starnostarratsonrats
+  staronevillivenorats
+  staronliveevilnorats
+  staronnonoononnorats
+  staronnoonnoonnorats
+  starononnoonnonorats
+  staronononnononorats
+  staronratsstarnorats
+  staronstarratsnorats
+  starstarnoonratsrats
+  starstaronnoratsrats
+
